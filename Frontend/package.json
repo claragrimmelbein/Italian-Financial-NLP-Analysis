@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claragrimmelbein/Italian-Financial-NLP-Analysis.git"
+  },
+  "author": "clara grimmelbein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claragrimmelbein/Italian-Financial-NLP-Analysis/issues"
+  },
+  "homepage": "https://github.com/claragrimmelbein/Italian-Financial-NLP-Analysis#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
